@@ -25,8 +25,8 @@ The Simon Game project is a web application created using HTML, CSS, and JavaScr
 
 To run the Simon Game project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/simon-game.git`
-2. Navigate to the project directory: `cd simon-game`
+1. Clone the repository: `https://github.com/AyushSingh012/Simon-Game.git`
+2. Navigate to the project directory: `cd Simon-Game`
 3. Open the `index.html` file in your web browser.
 
 ## Credits
